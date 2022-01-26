@@ -1,0 +1,6 @@
+print("Seja bem-vindo!")
+nome = input("Vamos nos conhecer melhor, me chamo robô e você?")
+print("hummm... gostei desse nome!")
+print("Sabia que seu nome ao contrário fica:")
+print(nome [::-1])
+idade = int(input("Muito bem para acessar nossos conteúdos, você precisa informar em que ano nasceu"))
